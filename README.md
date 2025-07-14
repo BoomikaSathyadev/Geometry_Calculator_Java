@@ -14,14 +14,15 @@ This beginner-friendly project demonstrates the use of:
 - Organized structure using **multiple classes in a single Java file**
 
 
-# 🚀 How to Run
+## 🚀 How to Run
 Make sure you have **Java installed** (JDK 17+ recommended).
-### 1. Compile the Java file:
-```bash
-  javac Geometry_Calculator_Java.java
 
-**### 2. Run the classes you want:**
-  java Geometry_Calculator_Java       // For Area Calculator
-  java PerimeterCalculator            // For Perimeter Calculator
-  java VolumeCalculator               // For Volume Calculator
-  java SurfaceAreaCalculator          // For Surface Area Calculator
+```bash
+// 1. Compile the Java file
+javac Geometry_Calculator_Java.java
+
+// 2. Run the class you want
+java Geometry_Calculator_Java        # Area Calculator
+java PerimeterCalculator             # Perimeter Calculator
+java VolumeCalculator                # Volume Calculator
+java SurfaceAreaCalculator           # Surface Area Calculator
