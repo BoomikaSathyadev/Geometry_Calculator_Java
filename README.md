@@ -19,7 +19,8 @@ Make sure you have **Java installed** (JDK 17+ recommended).
 ### 1. Compile the Java file:
 ```bash
   javac Geometry_Calculator_Java.java
-### 2. Run the classes you want:
+
+**### 2. Run the classes you want:**
   java Geometry_Calculator_Java       // For Area Calculator
   java PerimeterCalculator            // For Perimeter Calculator
   java VolumeCalculator               // For Volume Calculator
