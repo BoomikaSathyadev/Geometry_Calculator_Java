@@ -1,4 +1,3 @@
-// part 1
 import java.util.Scanner;
 
 /* I. Area Calculator*/
